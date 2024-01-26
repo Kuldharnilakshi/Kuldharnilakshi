@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilakshi kuldhar</h1>
 <h3 align="center">currently doing B.tech in Information technology</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldharnilakshi&label=Profile%20views&color=0e75b6&style=flat" alt="kuldharnilakshi" /> </p>
 
