@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldharnilakshi&label=Profile%20views&color=0e75b6&style=flat" alt="kuldharnilakshi" /> </p>
 
-- 🌱 I’m currently learning **python,java**
+- 🌱 I’m currently learning **python,c**
 
 - 💬 Ask me about **web development**
 
