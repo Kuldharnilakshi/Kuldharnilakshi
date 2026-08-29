@@ -38,79 +38,149 @@ Aspiring Data Engineer | Full-Stack Developer | Cybersecurity & AI/ML Enthusiast
 
 ---
 
-💼 Internship Experience
-☕ Infosys Springboard — Java Full Stack Intern
+# 💼 Internship Experience
 
-Feb 2026 – Apr 2026 · Remote
+<table>
+<tr>
 
-📌 ParkEase — Smart Parking Spot Finder
+<td width="50%" valign="top">
 
-Contributed to the development of a smart parking application focused on providing users with a responsive and user-friendly parking experience.
+<h2>☕ Infosys Springboard</h2>
 
-Key Contributions
+<h3>Java Full Stack Intern</h3>
 
-Developed responsive and user-friendly frontend interfaces using React.js.
-Collaborated with the backend team using Java and Spring Boot.
-Integrated frontend components with REST APIs to display and manage application data.
-Worked with structured datasets and contributed to application development, testing and debugging.
-Collaborated with team members to improve frontend functionality and application usability.
+<p><b>Feb 2026 – Apr 2026</b> · Remote</p>
 
-Tech Stack: React.js Java Spring Boot REST APIs
+<h3>📌 ParkEase</h3>
 
-🔗 Repository: ParkEase-Project
+<p><b>Smart Parking Spot Finder</b></p>
 
-🚀 BlueStock — Software Developer Intern
+<p>Contributed to the development of a smart parking application focused on providing users with a responsive and user-friendly parking experience.</p>
 
-Mar 2026 – Apr 2026 · Remote
+<b>Key Contributions</b>
 
-📌 Project 1 — Dating Application
+<ul>
+<li>Developed responsive frontend interfaces using <b>React.js</b>.</li>
+<li>Collaborated with the backend team using <b>Java & Spring Boot</b>.</li>
+<li>Integrated <b>REST APIs</b> to display and manage application data.</li>
+<li>Worked with structured datasets.</li>
+<li>Contributed to development, testing and debugging.</li>
+</ul>
 
-Contributed to a scalable social and dating platform with a focus on secure authentication, real-time communication and scalable backend services.
+<b>Tech Stack</b>
 
-Key Contributions
+<p>
+<code>React.js</code>
+<code>Java</code>
+<code>Spring Boot</code>
+<code>REST APIs</code>
+</p>
 
-Contributed to backend services using Node.js, Express.js and PostgreSQL.
-Developed modular functionality for authentication, user profiles, discovery and messaging.
-Implemented JWT-based authorization for secure authentication and access control.
-Integrated Socket.io for real-time messaging.
-Implemented Redis caching and rate limiting to improve responsiveness, security and scalability.
-Collaborated on API integration, development, testing and debugging.
+🔗 <b>Repository:</b> <a href="https://github.com/Akanksha-916/ParkEase-Project">ParkEase-Project</a>
 
-Tech Stack: Node.js Express.js PostgreSQL JWT Socket.io Redis
+</td>
 
-🔗 Repository: Bluestock
+<td width="50%" valign="top">
 
-📌 Project 2 — BlueStock Logic Looper
+<h2>🚀 BlueStock</h2>
 
-A gamified puzzle-solving web application designed to encourage logical thinking, problem-solving and consistent user engagement.
+<h3>Software Developer Intern</h3>
 
-Key Contributions
+<p><b>Mar 2026 – Apr 2026</b> · Remote</p>
 
-Contributed to interactive daily challenge functionality.
-Worked on streak tracking and activity visualization features.
-Developed responsive and user-friendly web interfaces.
-Contributed to improving the overall user experience and frontend functionality.
+<h3>📌 Project 1 — Dating Application</h3>
 
-Tech Stack: JavaScript HTML CSS Web Development
+<p>Contributed to a scalable social and dating platform with a focus on secure authentication, real-time communication and scalable backend services.</p>
 
-🔗 Repository: BlueStock-Logic-Looper
+<ul>
+<li>Developed modular services for <b>authentication, profiles, discovery and messaging</b>.</li>
+<li>Implemented <b>JWT-based authorization</b>.</li>
+<li>Integrated <b>Socket.io</b> for real-time messaging.</li>
+<li>Implemented <b>Redis caching and rate limiting</b>.</li>
+<li>Contributed to API integration, testing and debugging.</li>
+</ul>
 
-🏆 Hackathon & Achievements
-🔥 Ignite Hackathon — Finalist
-🛡️ Safeguard AI
+<b>Tech Stack</b>
 
-Selected as a finalist in the Ignite Hackathon for developing an AI-powered security-focused solution.
+<p>
+<code>Node.js</code>
+<code>Express.js</code>
+<code>PostgreSQL</code>
+<code>JWT</code>
+<code>Socket.io</code>
+<code>Redis</code>
+</p>
 
-Project Focus
+🔗 <b>Repository:</b> <a href="https://github.com/Kuldharnilakshi/Bluestock">Bluestock</a>
 
-Developed Safeguard AI to address real-world cybersecurity challenges.
-Applied concepts from Artificial Intelligence, Machine Learning and Cybersecurity.
-Worked on designing and implementing a technology-driven solution focused on intelligent security and threat analysis.
-Combined AI capabilities with cybersecurity concepts to build a practical security-oriented solution.
+<h3>📌 Project 2 — BlueStock Logic Looper</h3>
 
-Areas: Artificial Intelligence Machine Learning Cybersecurity Security
+<p>Gamified puzzle-solving platform designed to encourage logical thinking and consistent problem solving.</p>
 
-🔗 Repository: Safeguard-AI
+<ul>
+<li>Contributed to <b>daily challenges</b>.</li>
+<li>Worked on <b>streak tracking</b>.</li>
+<li>Implemented <b>activity visualization</b>.</li>
+<li>Contributed to responsive web interfaces.</li>
+</ul>
+
+<b>Tech Stack</b>
+
+<p>
+<code>JavaScript</code>
+<code>HTML</code>
+<code>CSS</code>
+</p>
+
+🔗 <b>Repository:</b> <a href="https://github.com/Kuldharnilakshi/BlueStock-Logic-Looper">BlueStock-Logic-Looper</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+# 🏆 Hackathon & Achievements
+
+<table>
+<tr>
+
+<td width="100%" valign="top">
+
+<h2>🔥 Ignite Hackathon — Finalist</h2>
+
+<h3>🛡️ Safeguard AI</h3>
+
+<p>
+Selected as a <b>finalist in the Ignite Hackathon</b> for developing an AI-powered security-focused solution addressing real-world cybersecurity challenges.
+</p>
+
+<b>Project Focus</b>
+
+<ul>
+<li>Developed <b>Safeguard AI</b> to address real-world cybersecurity challenges.</li>
+<li>Applied concepts from <b>Artificial Intelligence, Machine Learning and Cybersecurity</b>.</li>
+<li>Focused on <b>intelligent security and threat analysis</b>.</li>
+<li>Combined AI capabilities with cybersecurity concepts to develop a practical security-oriented solution.</li>
+</ul>
+
+<b>Areas</b>
+
+<p>
+<code>Artificial Intelligence</code>
+<code>Machine Learning</code>
+<code>Cybersecurity</code>
+<code>Security</code>
+</p>
+
+🔗 <b>Repository:</b> <a href="https://github.com/Kuldharnilakshi/Safeguard-AI">Safeguard-AI</a>
+
+</td>
+
+</tr>
+</table>
+
 
 # 🚀 My Technical Domains
 
