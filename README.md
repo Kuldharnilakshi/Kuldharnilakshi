@@ -41,55 +41,76 @@ Aspiring Data Engineer | Full-Stack Developer | Cybersecurity & AI/ML Enthusiast
 💼 Internship Experience
 ☕ Infosys Springboard — Java Full Stack Intern
 
-Feb 2026 – Apr 2026 | Remote
+Feb 2026 – Apr 2026 · Remote
 
-Project: ParkEase – Smart Parking Spot Finder
+📌 ParkEase — Smart Parking Spot Finder
+
+Contributed to the development of a smart parking application focused on providing users with a responsive and user-friendly parking experience.
+
+Key Contributions
+
 Developed responsive and user-friendly frontend interfaces using React.js.
 Collaborated with the backend team using Java and Spring Boot.
 Integrated frontend components with REST APIs to display and manage application data.
-Worked with structured datasets and contributed to development, testing and debugging.
-Collaborated with team members to improve application usability and frontend functionality.
+Worked with structured datasets and contributed to application development, testing and debugging.
+Collaborated with team members to improve frontend functionality and application usability.
+
+Tech Stack: React.js Java Spring Boot REST APIs
 
 🔗 Repository: ParkEase-Project
 
-Tech Stack: React.js • Java • Spring Boot • REST APIs
-
 🚀 BlueStock — Software Developer Intern
 
-Mar 2026 – Apr 2026 | Remote
+Mar 2026 – Apr 2026 · Remote
 
-Project 1: Dating Application
-Contributed to a scalable social and dating platform using Node.js, Express.js and PostgreSQL.
-Developed modular services for authentication, user profiles, discovery and messaging.
+📌 Project 1 — Dating Application
+
+Contributed to a scalable social and dating platform with a focus on secure authentication, real-time communication and scalable backend services.
+
+Key Contributions
+
+Contributed to backend services using Node.js, Express.js and PostgreSQL.
+Developed modular functionality for authentication, user profiles, discovery and messaging.
 Implemented JWT-based authorization for secure authentication and access control.
-Integrated Socket.io for real-time messaging functionality.
-Implemented Redis caching and rate limiting to improve application responsiveness, security and scalability.
-Collaborated on development, API integration, testing and debugging.
+Integrated Socket.io for real-time messaging.
+Implemented Redis caching and rate limiting to improve responsiveness, security and scalability.
+Collaborated on API integration, development, testing and debugging.
+
+Tech Stack: Node.js Express.js PostgreSQL JWT Socket.io Redis
 
 🔗 Repository: Bluestock
 
-Tech Stack: Node.js • Express.js • PostgreSQL • JWT • Socket.io • Redis
+📌 Project 2 — BlueStock Logic Looper
 
-Project 2: BlueStock Logic Looper
-Contributed to a gamified puzzle-solving web application designed to improve logical thinking and problem-solving consistency.
-Worked on interactive features including daily challenges, streak tracking and activity visualization.
-Contributed to responsive and user-friendly web interfaces.
+A gamified puzzle-solving web application designed to encourage logical thinking, problem-solving and consistent user engagement.
+
+Key Contributions
+
+Contributed to interactive daily challenge functionality.
+Worked on streak tracking and activity visualization features.
+Developed responsive and user-friendly web interfaces.
+Contributed to improving the overall user experience and frontend functionality.
+
+Tech Stack: JavaScript HTML CSS Web Development
 
 🔗 Repository: BlueStock-Logic-Looper
 
-Tech Stack: JavaScript • HTML • CSS • Web Development
-
 🏆 Hackathon & Achievements
 🔥 Ignite Hackathon — Finalist
-Project: Safeguard AI
-Selected as a finalist in the Ignite Hackathon.
-Developed Safeguard AI, an AI-powered security-focused solution addressing real-world cybersecurity challenges.
-Applied concepts from Artificial Intelligence, Machine Learning and Cybersecurity to develop the solution.
-Worked on designing and implementing a technology-driven solution with a focus on security and intelligent threat analysis.
+🛡️ Safeguard AI
+
+Selected as a finalist in the Ignite Hackathon for developing an AI-powered security-focused solution.
+
+Project Focus
+
+Developed Safeguard AI to address real-world cybersecurity challenges.
+Applied concepts from Artificial Intelligence, Machine Learning and Cybersecurity.
+Worked on designing and implementing a technology-driven solution focused on intelligent security and threat analysis.
+Combined AI capabilities with cybersecurity concepts to build a practical security-oriented solution.
+
+Areas: Artificial Intelligence Machine Learning Cybersecurity Security
 
 🔗 Repository: Safeguard-AI
-
-Areas: Artificial Intelligence • Cybersecurity • Machine Learning • Security
 
 # 🚀 My Technical Domains
 
