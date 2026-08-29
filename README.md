@@ -1,17 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nilakshi Kuldhar</h1>
-
-<h3 align="center">
-Aspiring Data Engineer | Full-Stack Developer | Cybersecurity & AI/ML Enthusiast
-</h3>
+<h3 align="center">Aspiring Data Engineer | Full-Stack Developer | Cybersecurity & AI/ML Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/Kuldharnilakshi">
-    <img src="https://img.shields.io/github/followers/Kuldharnilakshi?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Kuldharnilakshi">
-    <img src="https://img.shields.io/github/stars/Kuldharnilakshi?label=Stars&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=kuldharnilakshi&label=Profile%20Views&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=kuldharnilakshi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -22,15 +13,15 @@ Aspiring Data Engineer | Full-Stack Developer | Cybersecurity & AI/ML Enthusiast
 
 💡 Interested in building **data-driven, secure, scalable and intelligent applications**
 
-🚀 Currently focusing on **Data Engineering, Cloud Technologies, Data Analytics and AI/ML**
+🚀 Currently focusing on **Data Engineering, Cloud Technologies, Analytics and AI/ML**
 
 🔐 Exploring **Cybersecurity, Cryptography, Network Security and Secure Software Development**
 
-💻 Experience across **Full-Stack Development, Data Engineering, Machine Learning and Cloud Technologies**
+💻 Experience across **Full-Stack Development, Data Engineering, Machine Learning and Cloud**
 
 🧠 Strong foundation in **Data Structures & Algorithms, SQL, OOP and Problem Solving**
 
-📊 Passionate about transforming raw data into **insights, dashboards and intelligent systems**
+📊 Interested in converting raw data into meaningful **insights, dashboards and intelligent systems**
 
 ---
 
@@ -40,17 +31,17 @@ Aspiring Data Engineer | Full-Stack Developer | Cybersecurity & AI/ML Enthusiast
 
 **Feb 2026 – Apr 2026 | Remote**
 
-**Project:** ParkEase – Smart Parking Spot Finder
+**Project: ParkEase – Smart Parking Spot Finder**
 
 * Developed responsive and user-friendly frontend interfaces using **React.js**.
 * Collaborated with the backend team using **Spring Boot**.
 * Integrated frontend components with **REST APIs** to display and manage application data.
 * Worked with structured datasets and participated in **development, testing and debugging**.
-* Contributed to improving the usability and responsiveness of the application.
+* Contributed to building an intuitive and responsive user experience.
 
-🔗 **Project Repository:** [ParkEase-Project](https://github.com/Akanksha-916/ParkEase-Project)
+🔗 **Repository:** [ParkEase-Project](https://github.com/Akanksha-916/ParkEase-Project)
 
-**Tech Stack:** React.js • Spring Boot • REST APIs • Java
+**Tech Stack:** React.js • Java • Spring Boot • REST APIs
 
 ---
 
@@ -60,44 +51,48 @@ Aspiring Data Engineer | Full-Stack Developer | Cybersecurity & AI/ML Enthusiast
 
 **Project 1: Dating Application**
 
-* Contributed to a scalable **social/dating platform** using Node.js, Express.js and PostgreSQL.
+* Contributed to a scalable **social and dating platform** using Node.js, Express.js and PostgreSQL.
 * Developed modular services for **authentication, user profiles, discovery and messaging**.
 * Implemented **JWT-based authorization** for secure authentication and access control.
-* Worked with **Socket.io** for real-time messaging functionality.
-* Implemented **Redis caching and rate limiting** to improve responsiveness, security and scalability.
-* Collaborated on backend development, debugging and integration of application services.
+* Integrated **Socket.io** for real-time messaging.
+* Implemented **Redis caching and rate limiting** to improve application responsiveness, security and scalability.
+* Collaborated on development, testing, debugging and API integration.
 
-🔗 **Project Repository:** [Bluestock](https://github.com/Kuldharnilakshi/Bluestock)
+🔗 **Repository:** [Bluestock](https://github.com/Kuldharnilakshi/Bluestock)
 
 **Tech Stack:** Node.js • Express.js • PostgreSQL • JWT • Socket.io • Redis
 
+---
+
 **Project 2: BlueStock Logic Looper**
 
-A gamified puzzle-solving web application designed to improve logical thinking and consistency through daily challenges, streak tracking and activity visualization.
+* Contributed to a gamified puzzle-solving web application designed to improve **logical thinking and problem-solving consistency**.
+* Worked on interactive web features including **daily challenges, streak tracking and activity visualization**.
+* Focused on responsive and user-friendly interface development.
 
-🔗 **Project Repository:** [BlueStock-Logic-Looper](https://github.com/Kuldharnilakshi/BlueStock-Logic-Looper)
+🔗 **Repository:** [BlueStock-Logic-Looper](https://github.com/Kuldharnilakshi/BlueStock-Logic-Looper)
 
-**Tech Stack:** JavaScript • Web Development • Interactive UI
-
----
-
-# 🏆 Hackathon Achievement
-
-## 🔥 Ignite Hackathon — Finalist
-
-### 🛡️ Safeguard AI
-
-Selected as a **Finalist in the Ignite Hackathon** for developing **Safeguard AI**, an AI-powered security-focused solution.
-
-The project focuses on applying **Artificial Intelligence and cybersecurity concepts** to address real-world security challenges.
-
-🔗 **Project Repository:** [Safeguard-AI](https://github.com/Kuldharnilakshi/Safeguard-AI)
-
-**Areas:** Artificial Intelligence • Cybersecurity • Machine Learning • Security Automation
+**Tech Stack:** JavaScript • HTML • CSS • Web Development
 
 ---
 
-# 🚀 Technical Domains
+# 🏆 Hackathon & Achievements
+
+### 🔥 Ignite Hackathon — Finalist
+
+**Project: Safeguard AI**
+
+* Selected as a **finalist in the Ignite Hackathon**.
+* Developed **Safeguard AI**, an AI-powered security-focused solution addressing real-world cybersecurity challenges.
+* Applied concepts from **Artificial Intelligence, Machine Learning and Cybersecurity** to develop the solution.
+
+🔗 **Repository:** [Safeguard-AI](https://github.com/Kuldharnilakshi/Safeguard-AI)
+
+**Areas:** Artificial Intelligence • Cybersecurity • Machine Learning • Security
+
+---
+
+# 🚀 My Technical Domains
 
 ## ☁️ Data Engineering
 
@@ -105,245 +100,393 @@ Building end-to-end data pipelines and cloud-based data platforms.
 
 **Technologies**
 
-`Python` `PySpark` `SQL` `Azure Data Factory` `ADLS Gen2` `Databricks` `Delta Lake` `ETL` `ELT`
+* Python
+* PySpark
+* SQL
+* Azure Data Factory
+* Azure Data Lake Storage Gen2
+* Azure Databricks
+* Delta Lake
+* ETL / ELT
+* Data Cleaning & Validation
+* Data Pipelines
+* Data Warehousing
 
 ### Featured Projects
 
-### 🌾 Smart Agriculture Data Lake & Crop Intelligence Pipeline
+**🌾 Smart Agriculture Data Lake & Crop Intelligence Pipeline**
+[🔗 Repository](https://github.com/Kuldharnilakshi/Repo)
 
 End-to-end data engineering pipeline integrating **weather, soil, crop-yield and market datasets**.
 
-**Technologies:** Python • PySpark • SQL • Azure Data Factory • ADLS Gen2 • Databricks • Delta Lake • Power BI
-
-🔗 **Repository:** [Smart Agriculture Project](https://github.com/Kuldharnilakshi)
+**Stack:** Python • PySpark • SQL • Azure Data Factory • ADLS Gen2 • Databricks • Delta Lake • Power BI
 
 ---
 
-### 🛒 BigMart Sales — Azure Data Engineering Pipeline
+**🛒 BigMart Sales – Azure Data Engineering Pipeline**
+[🔗 Repository](https://github.com/Kuldharnilakshi/Github-Repo)
 
 End-to-end ETL pipeline for ingesting, transforming and loading retail sales data.
 
-**Technologies:** Azure Data Factory • ADLS Gen2 • Azure SQL • Mapping Data Flow
-
-🔗 **Repository:** [BigMart Sales Project](https://github.com/Kuldharnilakshi)
+**Stack:** Azure Data Factory • ADLS Gen2 • Azure SQL • Mapping Data Flow
 
 ---
 
-# 📊 Data Analytics
+## 📊 Data Analytics
 
-Transforming data into meaningful business insights using analytics and visualization.
+Transforming data into actionable business insights through analysis and visualization.
 
 **Technologies**
 
-`SQL` `Python` `Excel` `Power Query` `Power BI` `Tableau` `Pandas` `NumPy`
+* SQL
+* Python
+* Excel
+* Power Query
+* Power BI
+* Tableau
+* Data Cleaning
+* Data Visualization
+* Exploratory Data Analysis
+* Dashboard Development
 
-### 📈 Power BI & Tableau Analytics
+### Featured Projects
 
-Collection of dashboards created for data analysis, visualization and business storytelling.
+**📈 Sales Analytics Dashboard**
+[🔗 Repository](https://github.com/Kuldharnilakshi/Power-BI-and-Tablue)
 
-🔗 **Repository:** [Power-BI-and-Tableau](https://github.com/Kuldharnilakshi/Power-BI-and-Tablue)
+Interactive dashboards for analyzing **sales, profit, categories and regional performance**.
 
-**Tools:** Power BI • Tableau • Excel • Data Visualization
+**Stack:** Power BI • Tableau • Excel • Power Query
 
 ---
 
-# 🤖 AI / Machine Learning
+**📈 Stock Tracker**
+[🔗 Repository](https://github.com/Kuldharnilakshi/Stock-Tracker)
 
-Developing intelligent systems using machine learning, deep learning and generative AI.
+Web-based stock tracking application that allows users to search stock prices, monitor daily changes and analyze basic market sentiment.
+
+**Stack:** JavaScript • APIs • Data Visualization
+
+---
+
+## 🤖 AI / Machine Learning
+
+Developing machine learning and AI solutions for real-world problems.
 
 **Technologies**
 
-`Python` `Scikit-learn` `Pandas` `NumPy` `TensorFlow` `Streamlit` `Gemini API`
+* Python
+* Scikit-learn
+* Pandas
+* NumPy
+* Matplotlib
+* Streamlit
+* Deep Learning
+* CNN
+* Transformers
+* Generative AI
+* Gemini API
 
-### 🧠 CheatDetectML
+### Featured Projects
 
-Machine learning application that predicts the probability of cheating during online examinations.
+**🧠 CheatDetectML**
+[🔗 Repository](https://github.com/Kuldharnilakshi/CheatDetectML)
 
-🔗 **Repository:** [CheatDetectML](https://github.com/Kuldharnilakshi/CheatDetectML)
+Machine learning system that predicts the probability of cheating during online examinations.
 
-**Technologies:** Python • Scikit-learn • Streamlit • Machine Learning
-
----
-
-### 🛡️ Adversarial Attack Detection
-
-Deep learning-based system for detecting adversarial inputs targeting CNN and Vision Transformer classifiers.
-
-🔗 **Repository:** [Adversarial Attack Detection](https://github.com/Kuldharnilakshi/Adversarial-attack-detection-deep-learning)
-
-**Technologies:** Python • Deep Learning • CNN • Vision Transformer • FGSM • PGD
-
----
-
-### 💬 Intelligent Chat Companion
-
-AI-powered chatbot with a modern conversational interface using Google Gemini.
-
-🔗 **Repository:** [Intelligent Chat Companion](https://github.com/Kuldharnilakshi/Intelligent-Chat-Companion)
-
-**Technologies:** Python • Gemini API • AI
+**Stack:** Python • Scikit-learn • Streamlit
 
 ---
 
-# 🔐 Cybersecurity
+**🛡️ Adversarial Attack Detection**
+[🔗 Repository](https://github.com/Kuldharnilakshi/Adversarial-attack-detection-deep-learning)
 
-Interested in building secure applications and exploring modern cybersecurity technologies.
+Deep learning-based detection of adversarial inputs targeting **CNN and Vision Transformer** models.
+
+**Stack:** Python • Deep Learning • CNN • Vision Transformer • FGSM • PGD
+
+---
+
+**💬 Intelligent Chat Companion**
+[🔗 Repository](https://github.com/Kuldharnilakshi/Intelligent-Chat-Companion)
+
+AI chatbot powered by **Google Gemini** with an interactive conversational interface.
+
+**Stack:** Python • Gemini API • AI
+
+---
+
+## 🔐 Cybersecurity
+
+Exploring application security, cryptography, penetration testing and secure systems.
 
 **Areas**
 
-`Cryptography` `Web Security` `Network Security` `Penetration Testing` `Ethical Hacking` `Secure Coding` `Post-Quantum Cryptography`
+* Cryptography
+* Network Security
+* Web Application Security
+* Ethical Hacking
+* Vulnerability Assessment
+* Secure Coding
+* Digital Signatures
+* Post-Quantum Cryptography
 
-### 🔒 Quantum Safe Cryptography Toolkit
+### Featured Projects
 
-Python toolkit implementing **post-quantum cryptography** using Kyber and Dilithium, along with classical RSA/AES comparison and benchmarking.
+**🔒 Quantum Safe Cryptography Toolkit**
+[🔗 Repository](https://github.com/Kuldharnilakshi/Quantum-Safe-Cryptography-Toolkit)
 
-🔗 **Repository:** [Quantum-Safe-Cryptography-Toolkit](https://github.com/Kuldharnilakshi/Quantum-Safe-Cryptography-Toolkit)
+Implementation and benchmarking of **post-quantum cryptographic algorithms** using Kyber and Dilithium, with classical RSA/AES comparison.
 
-**Technologies:** Python • Kyber • Dilithium • RSA • AES
-
----
-
-### 🔗 Smart URL Detector
-
-Web-based security tool that analyzes URLs and classifies them as **Safe, Suspicious or Dangerous** using threat intelligence and security heuristics.
-
-🔗 **Repository:** [Smart-URL-detector](https://github.com/Kuldharnilakshi/Smart_URL_detector)
-
-**Technologies:** JavaScript • VirusTotal API • Security Heuristics
+**Stack:** Python • Kyber • Dilithium • RSA • AES
 
 ---
 
-### 🛡️ Web Application Pentesting
+**🔗 Smart URL Detector**
+[🔗 Repository](https://github.com/Kuldharnilakshi/Smart_URL_detector)
 
-Hands-on cybersecurity learning focused on web application security, penetration testing and vulnerability analysis.
+Security tool that analyzes URLs and classifies them as **Safe, Suspicious or Dangerous** using VirusTotal threat intelligence and security heuristics.
 
-🔗 **Repository:** [Web Application Pentesting](https://github.com/Kuldharnilakshi/web-application-pentesting-tryhackme-)
-
-**Platform:** TryHackMe • Web Security • Penetration Testing
-
----
-
-### 🔐 Cryptography & Information Security
-
-Collection of different encryption and decryption algorithms implemented in Python.
-
-🔗 **Repository:** [Cryptography-and-Information-Security](https://github.com/Kuldharnilakshi/Cryptography-and-Information-Security)
-
-**Technologies:** Python • Cryptography
+**Stack:** JavaScript • VirusTotal API • Security Heuristics
 
 ---
 
-# 🌐 Networking
+**🛡️ Web Application Pentesting**
+[🔗 Repository](https://github.com/Kuldharnilakshi/web-application-pentesting-tryhackme-)
 
-Building strong fundamentals in computer networking and network security.
+Hands-on security learning focused on **web application security, penetration testing and vulnerability analysis**.
+
+**Areas:** TryHackMe • Web Security • Penetration Testing
+
+---
+
+**🔐 Cryptography & Information Security**
+[🔗 Repository](https://github.com/Kuldharnilakshi/Cryptography-and-Information-Security)
+
+Collection of encryption and decryption algorithms implemented in Python.
+
+**Stack:** Python • Cryptography
+
+---
+
+## 🌐 Networking
+
+Building knowledge in computer networks and network security.
 
 **Concepts**
 
-`TCP/IP` `OSI Model` `HTTP/HTTPS` `DNS` `DHCP` `Routing` `Switching` `Firewalls` `VPN` `IDS`
+* TCP/IP
+* OSI Model
+* HTTP / HTTPS
+* DNS
+* DHCP
+* Routing & Switching
+* Network Security
+* Firewalls
+* VPN
+* Network Monitoring
+* Intrusion Detection
 
-### 📡 Network Anomaly Detection at the Edge
+### Featured Project
 
-Lightweight machine-learning-based intrusion detection system designed for **edge and IoT environments**.
+**📡 Lightweight AI Network Anomaly Detection**
+[🔗 Repository](https://github.com/Kuldharnilakshi/Lightweight-AI-Model-for-Network-Anomaly-Detection-at-the-Edge)
 
-🔗 **Repository:** [Lightweight-AI-Model-for-Network-Anomaly-Detection-at-the-Edge](https://github.com/Kuldharnilakshi/Lightweight-AI-Model-for-Network-Anomaly-Detection-at-the-Edge)
+Machine-learning-based intrusion detection system designed for **edge and IoT environments**.
 
-**Technologies:** Python • Machine Learning • Network Security • IDS • IoT
-
----
-
-# 💻 Full-Stack Development
-
-Building responsive and scalable web applications using modern frontend and backend technologies.
-
-### Frontend
-
-`HTML` `CSS` `JavaScript` `React.js` `Angular`
-
-### Backend
-
-`Java` `Spring Boot` `Node.js` `Express.js` `REST APIs`
-
-### Databases
-
-`MySQL` `PostgreSQL` `MongoDB` `Firebase`
+**Stack:** Python • Machine Learning • Network Security • IDS
 
 ---
 
-### 🎫 EventHub
+## 💻 Full-Stack Development
 
-Modern event management platform for discovering, creating, managing and registering for events.
+Building responsive and scalable web applications.
 
-🔗 **Repository:** [EventHub](https://github.com/Kuldharnilakshi/eventhub)
+**Frontend**
 
-**Technologies:** React.js • JavaScript
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Angular
 
----
+**Backend**
 
-### 🛒 FreshMart
+* Node.js
+* Express.js
+* Java
+* Spring Boot
+* REST APIs
 
-Online supermarket website allowing users to browse and purchase groceries and other products.
+**Databases**
 
-🔗 **Repository:** [FreshMart](https://github.com/Kuldharnilakshi/FreshMart)
+* MySQL
+* PostgreSQL
+* MongoDB
+* Firebase
 
-**Technologies:** HTML • CSS • JavaScript
+### Featured Projects
 
----
+**🎫 EventHub**
+[🔗 Repository](https://github.com/Kuldharnilakshi/eventhub)
 
-### 🍽️ Restaurant Management System
+Modern event management platform for discovering, creating and registering for events.
 
-Responsive restaurant management application with category-based food listing, dynamic rendering and routing.
-
-🔗 **Repository:** [Restaurant-Management-System](https://github.com/Kuldharnilakshi/Restaurant-Management-System)
-
-**Technologies:** Angular • HTML • CSS • JavaScript
-
----
-
-### 🌦️ Weather Application
-
-Full-stack weather application providing real-time weather information using external APIs.
-
-🔗 **Repository:** [Weather-Application](https://github.com/Kuldharnilakshi/Weather-Application-)
-
-**Technologies:** React • Node.js • Express • OpenWeather API
+**Stack:** React.js
 
 ---
 
-### 🌐 React Portfolio
+**🛒 FreshMart**
+[🔗 Repository](https://github.com/Kuldharnilakshi/FreshMart)
 
-Personal developer portfolio built using React.
+Online supermarket platform for browsing and purchasing grocery products.
 
-🔗 **Repository:** [React Portfolio](https://github.com/Kuldharnilakshi/React-portfolio-)
-
-**Technologies:** React • JavaScript • CSS
+**Stack:** JavaScript • HTML • CSS
 
 ---
 
-# 📱 Android Development
+**🍽️ Restaurant Management System**
+[🔗 Repository](https://github.com/Kuldharnilakshi/Restaurant-Management-System)
+
+Responsive restaurant management application with dynamic food categories and routing.
+
+**Stack:** Angular • HTML • CSS • JavaScript
+
+---
+
+**🌦️ Weather Application**
+[🔗 Repository](https://github.com/Kuldharnilakshi/Weather-Application-)
+
+Full-stack weather application using real-time weather APIs.
+
+**Stack:** React • Node.js • Express • OpenWeather API
+
+---
+
+## 📱 Android Development
 
 ### 🚖 Shirdi Taxi App
 
 Android application for taxi booking, user profiles and tracking.
 
-**Technologies:** Kotlin • Android Studio • Firebase
+**Stack:** Kotlin • Android Studio • Firebase
 
 ---
 
-### ✅ ToDo Application
+**✅ ToDo Application**
+[🔗 Repository](https://github.com/Kuldharnilakshi/App-Development-project-ToDoApplication)
 
-Android-based task management application.
+Android task management application.
 
-🔗 **Repository:** [ToDo Application](https://github.com/Kuldharnilakshi/App-Development-project-ToDoApplication)
-
-**Technologies:** Kotlin • Android Studio
+**Stack:** Kotlin • Android Studio
 
 ---
 
-# 🧠 DSA & Problem Solving
+# 🛠️ Tech Stack
 
-Strong foundation in **Data Structures and Algorithms using Java**.
+### 👨‍💻 Programming Languages
 
-### Topics
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### ☁️ Data Engineering & Cloud
+
+**Azure Data Factory • Azure Data Lake Storage Gen2 • Azure Databricks • PySpark • Delta Lake • Azure SQL • ETL • ELT • Data Pipelines**
+
+### 📊 Data Analytics
+
+**Power BI • Tableau • Excel • Power Query • Pandas • NumPy • Matplotlib • SQL**
+
+### 🤖 AI / ML
+
+**Scikit-learn • Pandas • NumPy • Deep Learning • CNN • Transformers • Streamlit • Generative AI • Gemini API**
+
+### 🌐 Web & Full Stack
+
+**HTML • CSS • JavaScript • React.js • Angular • Node.js • Express.js • Java • Spring Boot • REST APIs**
+
+### 🗄️ Databases
+
+**MySQL • PostgreSQL • MongoDB • Firebase**
+
+### 🔐 Cybersecurity
+
+**Cryptography • Post-Quantum Cryptography • Web Security • Penetration Testing • Network Security • Secure Coding • Vulnerability Assessment**
+
+### 🔧 Tools
+
+**Git • GitHub • Linux • Docker • VS Code • Android Studio • Figma**
+
+---
+
+# ⭐ Featured Projects
+
+## ☁️ Data Engineering
+
+| Project                                                                                       | Description                                                                                 | Technologies                                            |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 🌾 **[Smart Agriculture Data Lake](#)**                                                       | End-to-end agricultural data pipeline integrating weather, soil, crop yield and market data | Python, PySpark, SQL, ADF, ADLS, Databricks, Delta Lake |
+| 🛒 **[BigMart Sales Pipeline](#)**                                                            | Cloud ETL pipeline for retail sales data processing and analytics                           | ADF, ADLS Gen2, Azure SQL, Mapping Data Flow            |
+| 📊 **[Power BI & Tableau Analytics](https://github.com/Kuldharnilakshi/Power-BI-and-Tablue)** | Collection of interactive dashboards for business analysis                                  | Power BI, Tableau, Excel                                |
+
+---
+
+## 🔐 Cybersecurity
+
+| Project                                                                                                                | Description                                                                    | Technologies                       |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------- |
+| 🔒 **[Quantum Safe Cryptography Toolkit](https://github.com/Kuldharnilakshi/Quantum-Safe-Cryptography-Toolkit)**       | Post-quantum cryptography toolkit implementing Kyber and Dilithium             | Python, Kyber, Dilithium, RSA, AES |
+| 🔗 **[Smart URL Detector](https://github.com/Kuldharnilakshi/Smart_URL_detector)**                                     | Detects malicious and suspicious URLs using threat intelligence and heuristics | JavaScript, VirusTotal API         |
+| 🛡️ **[Web Application Pentesting](https://github.com/Kuldharnilakshi/web-application-pentesting-tryhackme-)**         | Hands-on web security and penetration testing practice                         | TryHackMe, Web Security            |
+| 🔐 **[Cryptography & Information Security](https://github.com/Kuldharnilakshi/Cryptography-and-Information-Security)** | Collection of encryption and decryption algorithms                             | Python                             |
+
+---
+
+## 🤖 AI / Machine Learning
+
+| Project                                                                                                                               | Description                                                           | Technologies                    |
+| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------- |
+| 🧠 **[CheatDetectML](https://github.com/Kuldharnilakshi/CheatDetectML)**                                                              | ML system for detecting potential cheating during online examinations | Python, Scikit-learn, Streamlit |
+| 🛡️ **[Adversarial Attack Detection](https://github.com/Kuldharnilakshi/Adversarial-attack-detection-deep-learning)**                 | Detects adversarial inputs against deep learning classifiers          | Python, CNN, ViT, FGSM, PGD     |
+| 📡 **[Network Anomaly Detection](https://github.com/Kuldharnilakshi/Lightweight-AI-Model-for-Network-Anomaly-Detection-at-the-Edge)** | Lightweight ML-based IDS for edge and IoT environments                | Python, Machine Learning        |
+| 💬 **[Intelligent Chat Companion](https://github.com/Kuldharnilakshi/Intelligent-Chat-Companion)**                                    | AI chatbot powered by Gemini                                          | Python, Gemini API              |
+
+---
+
+## 💻 Full-Stack & Web Development
+
+| Project                                                                                                 | Description                                                            | Technologies              |
+| ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------- |
+| 🎫 **[EventHub](https://github.com/Kuldharnilakshi/eventhub)**                                          | Modern event management and registration platform                      | React                     |
+| 🛒 **[FreshMart](https://github.com/Kuldharnilakshi/FreshMart)**                                        | Online supermarket web application                                     | JavaScript, HTML, CSS     |
+| 🍽️ **[Restaurant Management System](https://github.com/Kuldharnilakshi/Restaurant-Management-System)** | Interactive restaurant application with category filtering and routing | Angular                   |
+| 🌦️ **[Weather Application](https://github.com/Kuldharnilakshi/Weather-Application-)**                  | Full-stack weather application using real-time weather APIs            | React, Node.js, Express   |
+| 📚 **Online Learning Management System**                                                                | Platform for managing learning content, assignments and attendance     | HTML, CSS, JS, PHP, MySQL |
+| 🌐 **[React Portfolio](https://github.com/Kuldharnilakshi/React-portfolio-)**                           | Personal developer portfolio                                           | React                     |
+
+---
+
+## 📱 Android Development
+
+| Project                                                                                              | Description                                                 | Technologies                     |
+| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------- |
+| 🚖 **Shirdi Taxi App**                                                                               | Android application for taxi booking, profiles and tracking | Kotlin, Android Studio, Firebase |
+| ✅ **[ToDo Application](https://github.com/Kuldharnilakshi/App-Development-project-ToDoApplication)** | Android task management application                         | Kotlin, Android Studio           |
+
+---
+
+## 🧠 DSA & Problem Solving
+
+### 🚆 Metro Route Planner
+
+Java-based GUI application implementing **Dijkstra's Algorithm** to calculate shortest routes.
+
+**Technologies:** Java • Swing • Graphs • Dijkstra's Algorithm
+
+### Core Topics
 
 * Arrays
 * Strings
@@ -358,61 +501,44 @@ Strong foundation in **Data Structures and Algorithms using Java**.
 * Greedy Algorithms
 * SQL Problem Solving
 
-### 🚆 Metro Route Planner
-
-Java GUI application implementing **Dijkstra's Algorithm** to find shortest routes.
-
-**Technologies:** Java • Swing • Graphs • Dijkstra's Algorithm
-
----
-
-# 🛠️ Technology Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,kotlin,react,angular,nodejs,express,spring,mysql,postgres,mongodb,azure,docker,linux,git,github,vscode,figma" />
-
-</p>
-
 ---
 
 # 📚 Currently Learning
 
 ```text
-☁️ Data Engineering
-   Azure Data Factory
-   ADLS Gen2
-   Azure Databricks
-   PySpark
-   Delta Lake
-   ETL / ELT
-   Data Warehousing
+☁️ Azure Data Engineering
+   ├── Azure Data Factory
+   ├── ADLS Gen2
+   ├── Azure Databricks
+   ├── PySpark
+   ├── Delta Lake
+   └── Data Warehousing
 
 📊 Data Analytics
-   SQL
-   Power BI
-   Tableau
-   Excel
-   Business Intelligence
+   ├── SQL
+   ├── Power BI
+   ├── Tableau
+   ├── Excel
+   └── Business Intelligence
 
 🤖 AI / ML
-   Machine Learning
-   Deep Learning
-   Generative AI
-   AI Security
+   ├── Machine Learning
+   ├── Deep Learning
+   ├── Generative AI
+   └── AI Security
 
 🔐 Cybersecurity
-   Network Security
-   Web Security
-   Cryptography
-   Post-Quantum Cryptography
+   ├── Network Security
+   ├── Web Security
+   ├── Cryptography
+   └── Post-Quantum Cryptography
 
-💻 Software Engineering
-   Java
-   Spring Boot
-   React
-   REST APIs
-   System Design
+💻 Software Development
+   ├── Java
+   ├── Spring Boot
+   ├── React
+   ├── REST APIs
+   └── System Design
 ```
 
 ---
@@ -433,7 +559,7 @@ Java GUI application implementing **Dijkstra's Algorithm** to find shortest rout
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kuldharnilakshi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -448,13 +574,11 @@ Java GUI application implementing **Dijkstra's Algorithm** to find shortest rout
 
 # 🎯 Career Interests
 
-I'm interested in opportunities involving:
+I'm particularly interested in opportunities involving:
 
 **Data Engineering • Cloud Engineering • Data Analytics • AI/ML • Cybersecurity • Backend Development • Full-Stack Development**
 
-I enjoy working at the intersection of:
-
-> **Data + Cloud + Software Engineering + AI + Security**
+I enjoy working on problems where **data, software engineering, cloud infrastructure and security intersect.**
 
 ---
 
@@ -470,16 +594,12 @@ I enjoy working at the intersection of:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Nilakshi21/">
+<a href="https://leetcode.com/u/Nilakshi_IT/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/kuldharn7w91/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/kuldharnilaksh">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/kuldharnilakshi">
